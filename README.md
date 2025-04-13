@@ -7,6 +7,12 @@ Upload files to ESP32 SPIFFS
 In Arduino IDE, select Tools > ESP32 Sketch Data Upload to upload the data folder content
 
 
+data/
+├── index.html
+├── style.css
+├── script.js
+└── inventory.json
+
 
 Connect phone to the Wi-Fi network:
 SSID: OutdoorStuff
